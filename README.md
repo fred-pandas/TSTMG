@@ -11,5 +11,6 @@
 :white_square_button: <b>Liste des chapitres</b>
 <ul>
   <li><b>Chapitre 1 : Suites numériques</b></li>
+   <li><b>Chapitre 2 : Série statistiques à deux variables</b></li>  
 </ul>
 
