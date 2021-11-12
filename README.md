@@ -5,7 +5,7 @@
 <br>
 :white_square_button: <b>Pour exécuter tout le répertoire, cliquer le lien suivant :</b>
 
-[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fred-pandas/TSTMG/HEAD))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fred-pandas/TSTMG/HEAD)
 
 <br>
 :white_square_button: <b>Liste des chapitres</b>
